@@ -1,0 +1,29 @@
+1. Simple Calculator
+Create a basic calculator that can perform addition, subtraction, multiplication, and division operations. You can take input from the user and use conditional statements to perform the desired operation.
+
+2. To-Do List
+Build a command-line to-do list application where users can add tasks, view tasks, mark tasks as completed, and delete tasks. You can use a list to store the tasks.
+
+3. Number Guessing Game
+Develop a number guessing game where the program randomly selects a number within a specified range, and the user has to guess the number. Provide feedback if the guess is too high or too low.
+
+4. Simple Contact Book
+Create a contact book application that allows users to add, view, and delete contacts. You can use a dictionary to store contact names and their associated phone numbers.
+
+5. Basic Quiz Game
+Design a simple quiz game where users are asked multiple-choice questions, and they need to select the correct answer. You can store the questions and answers in a list or a dictionary.
+
+6. Rock, Paper, Scissors Game
+Build a rock, paper, scissors game where the user plays against the computer. The computer's choice can be randomly generated, and you can determine the winner based on the rules of the game.
+
+7. Word Count Tool
+Write a program that takes a text input from the user and counts the number of words, characters, and sentences in the text.
+
+8. Simple Inventory Management System
+Create an inventory management system for a small store. Users can add items with a name and quantity, update the quantity, and view the current inventory.
+
+9. Password Generator
+Develop a password generator that creates strong, random passwords. Users can specify the length and types of characters (letters, numbers, symbols) they want in the password.
+
+10. Currency Converter
+Build a simple currency converter that converts an amount from one currency to another using a predefined exchange rate.
