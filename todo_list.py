@@ -24,6 +24,7 @@ while(hold!=False):
     print('1.Add new task')
     print('2.Delete a task ')
     print('3.View your tasks ')
+    print('4.Mark task as complete')
     choice=int(input('Enter the task you want to perform : '))
     if choice ==1:
         inp_task=input('Enter the task you want to Add :')
@@ -33,7 +34,9 @@ while(hold!=False):
         delete_task(del_inp-1)
     elif choice==3:
         view_tasks()
-
+    elif choice==4:
+        comp=int(input('Enter the task that is complete '))
+        tasks[comp-1]=(f'{tasks[comp-1]} is completed.')
     conti=input('Do you want to continue ? (Y/N) ').upper()
     if conti=='N':
         hold=False
